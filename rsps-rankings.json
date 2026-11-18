@@ -1,0 +1,2499 @@
+{
+ "name": "RSPS daily rankings",
+ "title": "RuneScape private server (RSPS) daily rankings",
+ "source": "https://runescapeprivateservers.com/",
+ "leaderboard": "https://runescapeprivateservers.com/leaderboard/",
+ "license": "CC-BY-4.0",
+ "license_url": "https://creativecommons.org/licenses/by/4.0/",
+ "attribution": "RuneScape Private Servers (https://runescapeprivateservers.com/)",
+ "date": "2026-11-18",
+ "generated_at": "2026-11-18T18:55:03Z",
+ "ranking": "Rank = popularity: valid votes on this site this month x 10 plus votes counted on public RSPS toplists. votes = votes tracked (unweighted). Servers with no votes tracked are omitted. Ads never change rank.",
+ "columns": [
+  "date",
+  "rank",
+  "server_name",
+  "votes",
+  "category",
+  "categories",
+  "page_url"
+ ],
+ "count": 275,
+ "rows": [
+  {
+   "date": "2026-11-18",
+   "rank": 1,
+   "server_name": "Impact",
+   "votes": 60255,
+   "category": "OSRS",
+   "categories": "OSRS; PvP; Eco; PvM; Ironman; Mobile",
+   "page_url": "https://runescapeprivateservers.com/server/impact/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 2,
+   "server_name": "RoatPKZ",
+   "votes": 56223,
+   "category": "OSRS",
+   "categories": "OSRS; 317; PvP; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/roatpkz/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 3,
+   "server_name": "Elorin",
+   "votes": 43525,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/elorin/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 4,
+   "server_name": "Alora",
+   "votes": 16522,
+   "category": "OSRS",
+   "categories": "OSRS; 317; Eco; PvM; Ironman; Leagues; Mobile",
+   "page_url": "https://runescapeprivateservers.com/server/alora/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 5,
+   "server_name": "Reason",
+   "votes": 16331,
+   "category": "OSRS",
+   "categories": "OSRS; 317; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/reason/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 6,
+   "server_name": "Ragnar",
+   "votes": 15843,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; Eco; PvM; Ironman; Leagues; Mobile",
+   "page_url": "https://runescapeprivateservers.com/server/ragnar/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 7,
+   "server_name": "Mode PS",
+   "votes": 15088,
+   "category": "OSRS",
+   "categories": "OSRS; Pre-EoC; Custom; PvP; Eco; PvM; Ironman; Leagues",
+   "page_url": "https://runescapeprivateservers.com/server/mode-ps/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 8,
+   "server_name": "ArteroPK",
+   "votes": 10668,
+   "category": "OSRS",
+   "categories": "OSRS; Pre-EoC; PvM; Spawn; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/arteropk/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 9,
+   "server_name": "SpawnPK",
+   "votes": 10632,
+   "category": "317",
+   "categories": "317; Custom; PvP; Spawn",
+   "page_url": "https://runescapeprivateservers.com/server/spawnpk/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 10,
+   "server_name": "August",
+   "votes": 9789,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/august/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 11,
+   "server_name": "Orion",
+   "votes": 9459,
+   "category": "OSRS",
+   "categories": "OSRS; 317; Custom; PvP; PvM; Leagues",
+   "page_url": "https://runescapeprivateservers.com/server/orion/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 12,
+   "server_name": "GrinderScape",
+   "votes": 8993,
+   "category": "OSRS",
+   "categories": "OSRS; 317; PvP; Eco; PvM; Leagues",
+   "page_url": "https://runescapeprivateservers.com/server/grinderscape/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 13,
+   "server_name": "ECLIPSE",
+   "votes": 8442,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/eclipse/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 14,
+   "server_name": "EmberHold",
+   "votes": 8303,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; Eco; PvM; Ironman; Mobile",
+   "page_url": "https://runescapeprivateservers.com/server/emberhold/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 15,
+   "server_name": "REDEMPTION",
+   "votes": 6616,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; Eco; PvM; Ironman; Leagues; Mobile; F2P",
+   "page_url": "https://runescapeprivateservers.com/server/redemption/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 16,
+   "server_name": "Velheim",
+   "votes": 6471,
+   "category": "718",
+   "categories": "718; Pre-EoC; Eco; PvM; Ironman; Mobile",
+   "page_url": "https://runescapeprivateservers.com/server/velheim/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 17,
+   "server_name": "Fantasy",
+   "votes": 6261,
+   "category": "Custom",
+   "categories": "Custom; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/fantasy/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 18,
+   "server_name": "NEAR-REALITY",
+   "votes": 6104,
+   "category": "OSRS",
+   "categories": "OSRS; 317; PvP; Eco; PvM; Ironman; Leagues",
+   "page_url": "https://runescapeprivateservers.com/server/near-reality/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 19,
+   "server_name": "Vanguard",
+   "votes": 5863,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/vanguard/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 20,
+   "server_name": "CryptX",
+   "votes": 5520,
+   "category": "OSRS",
+   "categories": "OSRS; Pre-EoC; Custom; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/cryptx/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 21,
+   "server_name": "RXPS",
+   "votes": 5493,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/rxps/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 22,
+   "server_name": "BoomPS",
+   "votes": 5348,
+   "category": "OSRS",
+   "categories": "OSRS; 317; Custom; PvP; Eco; PvM; Ironman; Mobile",
+   "page_url": "https://runescapeprivateservers.com/server/boomps/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 23,
+   "server_name": "Kavros",
+   "votes": 4974,
+   "category": "Eco",
+   "categories": "Eco; PvM; Ironman; Mobile",
+   "page_url": "https://runescapeprivateservers.com/server/kavros/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 24,
+   "server_name": "Radiant",
+   "votes": 4384,
+   "category": "Pre-EoC",
+   "categories": "Pre-EoC; Custom; Eco; PvM; Mobile",
+   "page_url": "https://runescapeprivateservers.com/server/radiant/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 25,
+   "server_name": "Exalted",
+   "votes": 4253,
+   "category": "OSRS",
+   "categories": "OSRS; PvP; Eco; PvM; Ironman; Leagues",
+   "page_url": "https://runescapeprivateservers.com/server/exalted/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 26,
+   "server_name": "Slayora",
+   "votes": 4251,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/slayora/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 27,
+   "server_name": "SIMPLICITY",
+   "votes": 4241,
+   "category": "Pre-EoC",
+   "categories": "Pre-EoC; Custom; PvP; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/simplicity/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 28,
+   "server_name": "KOVA",
+   "votes": 4142,
+   "category": "OSRS",
+   "categories": "OSRS; 317; Custom; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/kova/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 29,
+   "server_name": "Xeric",
+   "votes": 4070,
+   "category": "OSRS",
+   "categories": "OSRS; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/xeric/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 30,
+   "server_name": "Amascut",
+   "votes": 3930,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; Eco; PvM; Ironman; Mobile",
+   "page_url": "https://runescapeprivateservers.com/server/amascut/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 31,
+   "server_name": "RuneSpawn",
+   "votes": 3830,
+   "category": "OSRS",
+   "categories": "OSRS; PvP; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/runespawn/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 32,
+   "server_name": "New School 99",
+   "votes": 3772,
+   "category": "718",
+   "categories": "718; Pre-EoC; Custom; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/new-school-99/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 33,
+   "server_name": "DamnedX",
+   "votes": 3661,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; Eco; PvM; Ironman; Leagues",
+   "page_url": "https://runescapeprivateservers.com/server/damnedx/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 34,
+   "server_name": "PkHonor",
+   "votes": 3368,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; Eco; PvM; Ironman; Mobile",
+   "page_url": "https://runescapeprivateservers.com/server/pkhonor/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 35,
+   "server_name": "ACTIVE WILDDUELCW",
+   "votes": 3277,
+   "category": "OSRS",
+   "categories": "OSRS; 317; Custom; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/active-wildduelcw/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 36,
+   "server_name": "Luna",
+   "votes": 3217,
+   "category": "OSRS",
+   "categories": "OSRS; PvP; Eco; PvM; Leagues; Mobile",
+   "page_url": "https://runescapeprivateservers.com/server/luna/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 37,
+   "server_name": "Fusion",
+   "votes": 3116,
+   "category": "Custom",
+   "categories": "Custom; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/fusion/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 38,
+   "server_name": "Varkath",
+   "votes": 2989,
+   "category": "OSRS",
+   "categories": "OSRS; 317; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/varkath/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 39,
+   "server_name": "Elidinis",
+   "votes": 2781,
+   "category": "General",
+   "categories": "General",
+   "page_url": "https://runescapeprivateservers.com/server/elidinis/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 40,
+   "server_name": "Elyon",
+   "votes": 2733,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/elyon/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 41,
+   "server_name": "Ferox",
+   "votes": 2718,
+   "category": "PvM",
+   "categories": "PvM; Leagues; Mobile",
+   "page_url": "https://runescapeprivateservers.com/server/ferox/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 42,
+   "server_name": "Xyrion",
+   "votes": 2258,
+   "category": "OSRS",
+   "categories": "OSRS; PvP; Eco; PvM; Ironman; Leagues",
+   "page_url": "https://runescapeprivateservers.com/server/xyrion/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 43,
+   "server_name": "Ascent",
+   "votes": 1975,
+   "category": "OSRS",
+   "categories": "OSRS; 317; Custom; PvP; Eco; PvM; Ironman; Leagues",
+   "page_url": "https://runescapeprivateservers.com/server/ascent/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 44,
+   "server_name": "Nexara",
+   "votes": 1963,
+   "category": "OSRS",
+   "categories": "OSRS; 317; Custom; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/nexara/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 45,
+   "server_name": "Lunite",
+   "votes": 1957,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; Eco",
+   "page_url": "https://runescapeprivateservers.com/server/lunite/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 46,
+   "server_name": "Allstarlegends",
+   "votes": 1865,
+   "category": "OSRS",
+   "categories": "OSRS; 317; PvP; Eco; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/allstarlegends/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 47,
+   "server_name": "Luna RS",
+   "votes": 1858,
+   "category": "Eco",
+   "categories": "Eco; PvM; Ironman; Leagues; Mobile",
+   "page_url": "https://runescapeprivateservers.com/server/luna-rs/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 48,
+   "server_name": "Galanor",
+   "votes": 1823,
+   "category": "Custom",
+   "categories": "Custom; PvM; Leagues",
+   "page_url": "https://runescapeprivateservers.com/server/galanor/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 49,
+   "server_name": "Azerite",
+   "votes": 1794,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/azerite/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 50,
+   "server_name": "Exiles",
+   "votes": 1789,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; Eco; PvM; Ironman; Leagues",
+   "page_url": "https://runescapeprivateservers.com/server/exiles/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 51,
+   "server_name": "BalenaScape",
+   "votes": 1773,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/balenascape/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 52,
+   "server_name": "Project PK",
+   "votes": 1714,
+   "category": "OSRS",
+   "categories": "OSRS; 317; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/project-pk/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 53,
+   "server_name": "Sanguine",
+   "votes": 1695,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/sanguine/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 54,
+   "server_name": "MAXSCAPE",
+   "votes": 1661,
+   "category": "OSRS",
+   "categories": "OSRS; 317; Custom; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/maxscape/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 55,
+   "server_name": "Turmoil",
+   "votes": 1647,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/turmoil/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 56,
+   "server_name": "FATE",
+   "votes": 1630,
+   "category": "Custom",
+   "categories": "Custom; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/fate/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 57,
+   "server_name": "Veridia",
+   "votes": 1563,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/veridia/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 58,
+   "server_name": "EXORA",
+   "votes": 1471,
+   "category": "Pre-EoC",
+   "categories": "Pre-EoC; Custom; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/exora/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 59,
+   "server_name": "BlissScape",
+   "votes": 1467,
+   "category": "718",
+   "categories": "718; Pre-EoC; Custom; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/blissscape/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 60,
+   "server_name": "Avalis",
+   "votes": 1436,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/avalis/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 61,
+   "server_name": "BarrageRSPS",
+   "votes": 1421,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/barragersps/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 62,
+   "server_name": "Lumbridge Online Roblox",
+   "votes": 1376,
+   "category": "OSRS",
+   "categories": "OSRS; 317; Custom; PvP; Eco; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/lumbridge-online-roblox/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 63,
+   "server_name": "Rev 230+",
+   "votes": 1372,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/rev-230/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 64,
+   "server_name": "Divination",
+   "votes": 1366,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/divination/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 65,
+   "server_name": "OakHaven",
+   "votes": 1302,
+   "category": "OSRS",
+   "categories": "OSRS; 317; Pre-EoC; Custom; PvP; Eco; PvM; Ironman; Mobile",
+   "page_url": "https://runescapeprivateservers.com/server/oakhaven/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 66,
+   "server_name": "Asterion",
+   "votes": 1278,
+   "category": "OSRS",
+   "categories": "OSRS; 317; Custom; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/asterion/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 67,
+   "server_name": "Arken",
+   "votes": 1272,
+   "category": "PvP",
+   "categories": "PvP; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/arken/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 68,
+   "server_name": "VexPk",
+   "votes": 1267,
+   "category": "OSRS",
+   "categories": "OSRS; 317; Custom; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/vexpk/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 69,
+   "server_name": "Chaotic",
+   "votes": 1261,
+   "category": "OSRS",
+   "categories": "OSRS; Pre-EoC; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/chaotic/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 70,
+   "server_name": "Areos",
+   "votes": 1260,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/areos/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 71,
+   "server_name": "OPDuel.com RuneScape Gambling Crypto",
+   "votes": 1260,
+   "category": "OSRS",
+   "categories": "OSRS",
+   "page_url": "https://runescapeprivateservers.com/server/opduel-com-runescape-gambling-crypto/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 72,
+   "server_name": "Velmore",
+   "votes": 1260,
+   "category": "OSRS",
+   "categories": "OSRS; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/velmore/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 73,
+   "server_name": "goatscape",
+   "votes": 1260,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/goatscape/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 74,
+   "server_name": "Zelus",
+   "votes": 1227,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/zelus/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 75,
+   "server_name": "REIGNWILDPS HALLOWEEN EVENT IS LIVE",
+   "votes": 1209,
+   "category": "OSRS",
+   "categories": "OSRS; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/reignwildps-halloween-event-is-live/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 76,
+   "server_name": "Project Zen",
+   "votes": 1190,
+   "category": "OSRS",
+   "categories": "OSRS; Pre-EoC; Custom; PvP; Eco; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/project-zen/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 77,
+   "server_name": "Origin RS",
+   "votes": 1160,
+   "category": "OSRS",
+   "categories": "OSRS; PvP; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/origin-rs/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 78,
+   "server_name": "Entrana",
+   "votes": 1066,
+   "category": "OSRS",
+   "categories": "OSRS",
+   "page_url": "https://runescapeprivateservers.com/server/entrana/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 79,
+   "server_name": "Conquest",
+   "votes": 1053,
+   "category": "Custom",
+   "categories": "Custom; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/conquest/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 80,
+   "server_name": "Anubis",
+   "votes": 1043,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; Eco; PvM; Ironman; F2P",
+   "page_url": "https://runescapeprivateservers.com/server/anubis/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 81,
+   "server_name": "RENEGADE",
+   "votes": 969,
+   "category": "OSRS",
+   "categories": "OSRS; Eco; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/renegade/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 82,
+   "server_name": "Defiance PvP",
+   "votes": 966,
+   "category": "OSRS",
+   "categories": "OSRS; PvP; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/defiance-pvp/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 83,
+   "server_name": "Exiled",
+   "votes": 960,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/exiled/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 84,
+   "server_name": "Cywir NXT",
+   "votes": 941,
+   "category": "Custom",
+   "categories": "Custom; PvP; Eco; PvM; Ironman; Mobile",
+   "page_url": "https://runescapeprivateservers.com/server/cywir-nxt/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 85,
+   "server_name": "Riverend",
+   "votes": 918,
+   "category": "OSRS",
+   "categories": "OSRS; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/riverend/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 86,
+   "server_name": "GenesisRSPS",
+   "votes": 910,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/genesisrsps/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 87,
+   "server_name": "Arkanis",
+   "votes": 882,
+   "category": "Custom",
+   "categories": "Custom; PvM; Ironman; Mobile",
+   "page_url": "https://runescapeprivateservers.com/server/arkanis/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 88,
+   "server_name": "Snowscape.net",
+   "votes": 869,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/snowscape-net/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 89,
+   "server_name": "LegacyScape 667",
+   "votes": 864,
+   "category": "Pre-EoC",
+   "categories": "Pre-EoC; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/legacyscape-667/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 90,
+   "server_name": "Vulcan",
+   "votes": 860,
+   "category": "OSRS",
+   "categories": "OSRS; PvP; PvM; Ironman; Leagues; Mobile",
+   "page_url": "https://runescapeprivateservers.com/server/vulcan/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 91,
+   "server_name": "Echo",
+   "votes": 860,
+   "category": "OSRS",
+   "categories": "OSRS; Pre-EoC; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/echo/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 92,
+   "server_name": "Elkoy",
+   "votes": 860,
+   "category": "PvP",
+   "categories": "PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/elkoy/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 93,
+   "server_name": "RuneNugget",
+   "votes": 860,
+   "category": "OSRS",
+   "categories": "OSRS; PvP; Eco; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/runenugget/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 94,
+   "server_name": "Aragon",
+   "votes": 811,
+   "category": "317",
+   "categories": "317; Custom; PvM; Leagues; F2P",
+   "page_url": "https://runescapeprivateservers.com/server/aragon/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 95,
+   "server_name": "Arcana",
+   "votes": 739,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/arcana/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 96,
+   "server_name": "SpawnPvP",
+   "votes": 705,
+   "category": "OSRS",
+   "categories": "OSRS; 317; Custom; PvP; Eco; PvM; Spawn; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/spawnpvp/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 97,
+   "server_name": "RuneRealm",
+   "votes": 668,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/runerealm/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 98,
+   "server_name": "Carnage",
+   "votes": 640,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/carnage/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 99,
+   "server_name": "Nebula PVP",
+   "votes": 640,
+   "category": "Pre-EoC",
+   "categories": "Pre-EoC; Custom; PvP; Spawn",
+   "page_url": "https://runescapeprivateservers.com/server/nebula-pvp/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 100,
+   "server_name": "Xeros",
+   "votes": 640,
+   "category": "OSRS",
+   "categories": "OSRS; 317; Custom; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/xeros/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 101,
+   "server_name": "Nivora",
+   "votes": 640,
+   "category": "Custom",
+   "categories": "Custom; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/nivora/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 102,
+   "server_name": "Osrs-pk",
+   "votes": 640,
+   "category": "OSRS",
+   "categories": "OSRS; PvP; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/osrs-pk/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 103,
+   "server_name": "Stargaze",
+   "votes": 640,
+   "category": "General",
+   "categories": "General",
+   "page_url": "https://runescapeprivateservers.com/server/stargaze/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 104,
+   "server_name": "Exiled06",
+   "votes": 578,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/exiled06/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 105,
+   "server_name": "Veyron",
+   "votes": 569,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/veyron/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 106,
+   "server_name": "Rupture",
+   "votes": 481,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/rupture/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 107,
+   "server_name": "Bethlehem",
+   "votes": 478,
+   "category": "Custom",
+   "categories": "Custom; PvP; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/bethlehem/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 108,
+   "server_name": "Sarim",
+   "votes": 446,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/sarim/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 109,
+   "server_name": "Runeverse",
+   "votes": 440,
+   "category": "Custom",
+   "categories": "Custom; PvP; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/runeverse/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 110,
+   "server_name": "Goopy",
+   "votes": 431,
+   "category": "OSRS",
+   "categories": "OSRS; 317; Custom; PvP; Eco; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/goopy/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 111,
+   "server_name": "Oldrune",
+   "votes": 373,
+   "category": "General",
+   "categories": "General",
+   "page_url": "https://runescapeprivateservers.com/server/oldrune/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 112,
+   "server_name": "Eternal 317",
+   "votes": 317,
+   "category": "OSRS",
+   "categories": "OSRS; 317; Custom; PvP; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/eternal-317/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 113,
+   "server_name": "Evolve PS",
+   "votes": 309,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; Eco; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/evolve-ps/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 114,
+   "server_name": "Turmoil Launching Oct 24",
+   "votes": 306,
+   "category": "Custom",
+   "categories": "Custom",
+   "page_url": "https://runescapeprivateservers.com/server/turmoil-launching-oct-24/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 115,
+   "server_name": "Runite",
+   "votes": 291,
+   "category": "718",
+   "categories": "718; PvP; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/runite/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 116,
+   "server_name": "Elysium",
+   "votes": 267,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/elysium/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 117,
+   "server_name": "Polars Playground",
+   "votes": 259,
+   "category": "OSRS",
+   "categories": "OSRS; 317; Custom; PvP; Eco; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/polars-playground/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 118,
+   "server_name": "OutlawPK",
+   "votes": 257,
+   "category": "OSRS",
+   "categories": "OSRS; 317; Custom; PvP; PvM; Spawn; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/outlawpk/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 119,
+   "server_name": "Project Arcanis",
+   "votes": 236,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/project-arcanis/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 120,
+   "server_name": "Delanor",
+   "votes": 229,
+   "category": "OSRS",
+   "categories": "OSRS; PvP; Eco; PvM; Ironman; Mobile",
+   "page_url": "https://runescapeprivateservers.com/server/delanor/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 121,
+   "server_name": "AvariScape 718 RS2/OSRS",
+   "votes": 207,
+   "category": "OSRS",
+   "categories": "OSRS; 718; Custom; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/avariscape-718-rs2-osrs/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 122,
+   "server_name": "Element",
+   "votes": 192,
+   "category": "PvM",
+   "categories": "PvM",
+   "page_url": "https://runescapeprivateservers.com/server/element/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 123,
+   "server_name": "ALEGES",
+   "votes": 168,
+   "category": "OSRS",
+   "categories": "OSRS; 317; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/aleges/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 124,
+   "server_name": "Scape05",
+   "votes": 162,
+   "category": "PvP",
+   "categories": "PvP",
+   "page_url": "https://runescapeprivateservers.com/server/scape05/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 125,
+   "server_name": "Eonidle",
+   "votes": 160,
+   "category": "Custom",
+   "categories": "Custom",
+   "page_url": "https://runescapeprivateservers.com/server/eonidle/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 126,
+   "server_name": "VoidPS",
+   "votes": 151,
+   "category": "Custom",
+   "categories": "Custom; PvP; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/voidps/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 127,
+   "server_name": "AUGMENT",
+   "votes": 138,
+   "category": "OSRS",
+   "categories": "OSRS; 317; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/augment/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 128,
+   "server_name": "Vaelorn",
+   "votes": 129,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/vaelorn/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 129,
+   "server_name": "ReignWildPs",
+   "votes": 127,
+   "category": "General",
+   "categories": "General",
+   "page_url": "https://runescapeprivateservers.com/server/reignwildps/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 130,
+   "server_name": "Primal",
+   "votes": 120,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/primal/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 131,
+   "server_name": "Catalyst",
+   "votes": 114,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/catalyst/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 132,
+   "server_name": "Pvprsps",
+   "votes": 110,
+   "category": "OSRS",
+   "categories": "OSRS; 317; PvP; Eco; PvM; Mobile",
+   "page_url": "https://runescapeprivateservers.com/server/pvprsps/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 133,
+   "server_name": "RSClassicKBD",
+   "votes": 109,
+   "category": "Custom",
+   "categories": "Custom",
+   "page_url": "https://runescapeprivateservers.com/server/rsclassickbd/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 134,
+   "server_name": "Planet Progress",
+   "votes": 108,
+   "category": "OSRS",
+   "categories": "OSRS; Pre-EoC; Custom; PvP; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/planet-progress/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 135,
+   "server_name": "Odyssey",
+   "votes": 107,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/odyssey/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 136,
+   "server_name": "AbyssPS || Brand new custom RSPS|| 24/7",
+   "votes": 106,
+   "category": "Custom",
+   "categories": "Custom; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/abyssps-brand-new-custom-rsps-24-7/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 137,
+   "server_name": "ARIGON MAY 30TH",
+   "votes": 106,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/arigon-may-30th/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 138,
+   "server_name": "Darklands",
+   "votes": 106,
+   "category": "Custom",
+   "categories": "Custom; PvP; Eco",
+   "page_url": "https://runescapeprivateservers.com/server/darklands/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 139,
+   "server_name": "DivineX",
+   "votes": 106,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/divinex/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 140,
+   "server_name": "Dodian #1",
+   "votes": 106,
+   "category": "General",
+   "categories": "General",
+   "page_url": "https://runescapeprivateservers.com/server/dodian-1/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 141,
+   "server_name": "Elvarg Rebirth",
+   "votes": 106,
+   "category": "317",
+   "categories": "317; Custom; PvP; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/elvarg-rebirth/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 142,
+   "server_name": "Exilium",
+   "votes": 106,
+   "category": "OSRS",
+   "categories": "OSRS; Eco; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/exilium/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 143,
+   "server_name": "Lolscape",
+   "votes": 106,
+   "category": "OSRS",
+   "categories": "OSRS; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/lolscape/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 144,
+   "server_name": "NO ESCAPE",
+   "votes": 106,
+   "category": "Custom",
+   "categories": "Custom; PvP; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/no-escape/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 145,
+   "server_name": "RealityX",
+   "votes": 106,
+   "category": "OSRS",
+   "categories": "OSRS; 718; PvP; Eco; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/realityx/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 146,
+   "server_name": "SplitPK",
+   "votes": 106,
+   "category": "OSRS",
+   "categories": "OSRS; PvP; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/splitpk/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 147,
+   "server_name": "Abyssal-Ps Launch 29/09",
+   "votes": 106,
+   "category": "OSRS",
+   "categories": "OSRS; Custom",
+   "page_url": "https://runescapeprivateservers.com/server/abyssal-ps-launch-29-09/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 148,
+   "server_name": "ArkCane",
+   "votes": 106,
+   "category": "317",
+   "categories": "317; Custom; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/arkcane/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 149,
+   "server_name": "Aurelius-ps",
+   "votes": 106,
+   "category": "Custom",
+   "categories": "Custom; Eco; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/aurelius-ps/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 150,
+   "server_name": "DeviousOS",
+   "votes": 106,
+   "category": "Custom",
+   "categories": "Custom; PvM; Leagues; Mobile",
+   "page_url": "https://runescapeprivateservers.com/server/deviousos/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 151,
+   "server_name": "FizzerX Remastered ALLSTAR OPEN BETA",
+   "votes": 106,
+   "category": "General",
+   "categories": "General",
+   "page_url": "https://runescapeprivateservers.com/server/fizzerx-remastered-allstar-open-beta/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 152,
+   "server_name": "Insanity Realm",
+   "votes": 106,
+   "category": "317",
+   "categories": "317; Custom",
+   "page_url": "https://runescapeprivateservers.com/server/insanity-realm/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 153,
+   "server_name": "Onyxia",
+   "votes": 106,
+   "category": "718",
+   "categories": "718; Custom; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/onyxia/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 154,
+   "server_name": "Os-Desire Osrs!",
+   "votes": 106,
+   "category": "OSRS",
+   "categories": "OSRS",
+   "page_url": "https://runescapeprivateservers.com/server/os-desire-osrs/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 155,
+   "server_name": "OS-Scape.com",
+   "votes": 106,
+   "category": "OSRS",
+   "categories": "OSRS; PvP; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/os-scape-com/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 156,
+   "server_name": "Overload",
+   "votes": 106,
+   "category": "OSRS",
+   "categories": "OSRS; 317; Custom; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/overload/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 157,
+   "server_name": "Overload V2",
+   "votes": 106,
+   "category": "PvM",
+   "categories": "PvM",
+   "page_url": "https://runescapeprivateservers.com/server/overload-v2/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 158,
+   "server_name": "Pyron ps",
+   "votes": 106,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/pyron-ps/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 159,
+   "server_name": "Seers",
+   "votes": 106,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; Eco; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/seers/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 160,
+   "server_name": "Skotos 317 PVP",
+   "votes": 106,
+   "category": "317",
+   "categories": "317; Custom; PvP; Eco; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/skotos-317-pvp/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 161,
+   "server_name": "Tartarus",
+   "votes": 106,
+   "category": "Pre-EoC",
+   "categories": "Pre-EoC; Custom; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/tartarus/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 162,
+   "server_name": "Unkown",
+   "votes": 106,
+   "category": "General",
+   "categories": "General",
+   "page_url": "https://runescapeprivateservers.com/server/unkown/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 163,
+   "server_name": "WildyPk Spawn & Pking Server",
+   "votes": 106,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; Spawn",
+   "page_url": "https://runescapeprivateservers.com/server/wildypk-spawn-pking-server/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 164,
+   "server_name": "Wisdom",
+   "votes": 106,
+   "category": "Custom",
+   "categories": "Custom; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/wisdom/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 165,
+   "server_name": "Death Plateau",
+   "votes": 101,
+   "category": "PvP",
+   "categories": "PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/death-plateau/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 166,
+   "server_name": "AvariScape",
+   "votes": 100,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/avariscape/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 167,
+   "server_name": "Caligo",
+   "votes": 98,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/caligo/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 168,
+   "server_name": "RS-Realm",
+   "votes": 98,
+   "category": "OSRS",
+   "categories": "OSRS; Pre-EoC; Custom; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/rs-realm/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 169,
+   "server_name": "RuneWorld",
+   "votes": 95,
+   "category": "OSRS",
+   "categories": "OSRS; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/runeworld/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 170,
+   "server_name": "Ashmarch",
+   "votes": 94,
+   "category": "317",
+   "categories": "317",
+   "page_url": "https://runescapeprivateservers.com/server/ashmarch/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 171,
+   "server_name": "2006 Revival",
+   "votes": 82,
+   "category": "317",
+   "categories": "317; Pre-EoC",
+   "page_url": "https://runescapeprivateservers.com/server/2006-revival/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 172,
+   "server_name": "Apex",
+   "votes": 81,
+   "category": "OSRS",
+   "categories": "OSRS",
+   "page_url": "https://runescapeprivateservers.com/server/apex/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 173,
+   "server_name": "Dravionps",
+   "votes": 77,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/dravionps/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 174,
+   "server_name": "EverforgePS now live",
+   "votes": 76,
+   "category": "OSRS",
+   "categories": "OSRS; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/everforgeps-now-live/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 175,
+   "server_name": "Lost Tribe",
+   "votes": 66,
+   "category": "PvP",
+   "categories": "PvP; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/lost-tribe/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 176,
+   "server_name": "World18",
+   "votes": 58,
+   "category": "OSRS",
+   "categories": "OSRS; 317; Custom; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/world18/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 177,
+   "server_name": "Morpheus",
+   "votes": 58,
+   "category": "OSRS",
+   "categories": "OSRS; Custom",
+   "page_url": "https://runescapeprivateservers.com/server/morpheus/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 178,
+   "server_name": "NexFrost",
+   "votes": 55,
+   "category": "OSRS",
+   "categories": "OSRS; 718; Custom; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/nexfrost/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 179,
+   "server_name": "Chaotix",
+   "votes": 54,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/chaotix/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 180,
+   "server_name": "RuneFlare",
+   "votes": 54,
+   "category": "OSRS",
+   "categories": "OSRS; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/runeflare/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 181,
+   "server_name": "Salaria #234",
+   "votes": 53,
+   "category": "OSRS",
+   "categories": "OSRS; 317; Custom; PvP; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/salaria-234/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 182,
+   "server_name": "Dawnguard",
+   "votes": 53,
+   "category": "OSRS",
+   "categories": "OSRS; Pre-EoC; Custom; PvP; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/dawnguard/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 183,
+   "server_name": "EverforgePS",
+   "votes": 52,
+   "category": "OSRS",
+   "categories": "OSRS; Eco; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/everforgeps/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 184,
+   "server_name": "NexFrost-718",
+   "votes": 52,
+   "category": "OSRS",
+   "categories": "OSRS; 718; Custom",
+   "page_url": "https://runescapeprivateservers.com/server/nexfrost-718/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 185,
+   "server_name": "NovaRS",
+   "votes": 50,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; Eco; PvM; Ironman; Leagues",
+   "page_url": "https://runescapeprivateservers.com/server/novars/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 186,
+   "server_name": "Imperium",
+   "votes": 49,
+   "category": "718",
+   "categories": "718; Pre-EoC; Custom; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/imperium/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 187,
+   "server_name": "Atoll",
+   "votes": 46,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/atoll/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 188,
+   "server_name": "Karos",
+   "votes": 41,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; Eco; PvM; Ironman; Leagues",
+   "page_url": "https://runescapeprivateservers.com/server/karos/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 189,
+   "server_name": "GADSCAPE",
+   "votes": 39,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/gadscape/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 190,
+   "server_name": "Kryptic",
+   "votes": 38,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/kryptic/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 191,
+   "server_name": "Arcane-Arena",
+   "votes": 36,
+   "category": "Custom",
+   "categories": "Custom; PvP; Eco; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/arcane-arena/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 192,
+   "server_name": "RuneBR",
+   "votes": 35,
+   "category": "OSRS",
+   "categories": "OSRS; Mobile",
+   "page_url": "https://runescapeprivateservers.com/server/runebr/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 193,
+   "server_name": "Nethermoor",
+   "votes": 32,
+   "category": "Custom",
+   "categories": "Custom; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/nethermoor/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 194,
+   "server_name": "Exiled06 2006 RuneScape",
+   "votes": 32,
+   "category": "General",
+   "categories": "General",
+   "page_url": "https://runescapeprivateservers.com/server/exiled06-2006-runescape/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 195,
+   "server_name": "Soultide",
+   "votes": 31,
+   "category": "Custom",
+   "categories": "Custom; F2P",
+   "page_url": "https://runescapeprivateservers.com/server/soultide/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 196,
+   "server_name": "Atlas",
+   "votes": 29,
+   "category": "OSRS",
+   "categories": "OSRS; 317; Custom; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/atlas/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 197,
+   "server_name": "Shilo",
+   "votes": 25,
+   "category": "Custom",
+   "categories": "Custom; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/shilo/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 198,
+   "server_name": "Arcus",
+   "votes": 24,
+   "category": "OSRS",
+   "categories": "OSRS; Custom",
+   "page_url": "https://runescapeprivateservers.com/server/arcus/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 199,
+   "server_name": "EBONFALL",
+   "votes": 24,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/ebonfall/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 200,
+   "server_name": "RN04 Mobile",
+   "votes": 24,
+   "category": "Mobile",
+   "categories": "Mobile",
+   "page_url": "https://runescapeprivateservers.com/server/rn04-mobile/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 201,
+   "server_name": "Halo-Scape",
+   "votes": 21,
+   "category": "Custom",
+   "categories": "Custom",
+   "page_url": "https://runescapeprivateservers.com/server/halo-scape/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 202,
+   "server_name": "Salaria",
+   "votes": 21,
+   "category": "Custom",
+   "categories": "Custom; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/salaria/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 203,
+   "server_name": "Olympus",
+   "votes": 20,
+   "category": "OSRS",
+   "categories": "OSRS; 317; Custom; PvP; PvM; Ironman; F2P",
+   "page_url": "https://runescapeprivateservers.com/server/olympus/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 204,
+   "server_name": "Nightmare MMO",
+   "votes": 18,
+   "category": "OSRS",
+   "categories": "OSRS; Custom",
+   "page_url": "https://runescapeprivateservers.com/server/nightmare-mmo/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 205,
+   "server_name": "AetherRs3",
+   "votes": 17,
+   "category": "General",
+   "categories": "General",
+   "page_url": "https://runescapeprivateservers.com/server/aetherrs3/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 206,
+   "server_name": "Radiance",
+   "votes": 16,
+   "category": "OSRS",
+   "categories": "OSRS; PvP; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/radiance/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 207,
+   "server_name": "GG",
+   "votes": 15,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/gg/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 208,
+   "server_name": "AtlasCustom-OSRS",
+   "votes": 15,
+   "category": "OSRS",
+   "categories": "OSRS; Custom",
+   "page_url": "https://runescapeprivateservers.com/server/atlascustom-osrs/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 209,
+   "server_name": "Grimoore",
+   "votes": 13,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/grimoore/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 210,
+   "server_name": "Breach",
+   "votes": 12,
+   "category": "PvP",
+   "categories": "PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/breach/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 211,
+   "server_name": "Vyre",
+   "votes": 12,
+   "category": "OSRS",
+   "categories": "OSRS; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/vyre/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 212,
+   "server_name": "CLAMPERZ #1 NEW SERVER FRESH ST",
+   "votes": 11,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/clamperz-1-new-server-fresh-st/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 213,
+   "server_name": "PrivatePS",
+   "votes": 11,
+   "category": "OSRS",
+   "categories": "OSRS; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/privateps/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 214,
+   "server_name": "Rune Survivors",
+   "votes": 11,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; Eco; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/rune-survivors/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 215,
+   "server_name": "VidyaScape",
+   "votes": 11,
+   "category": "Custom",
+   "categories": "Custom",
+   "page_url": "https://runescapeprivateservers.com/server/vidyascape/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 216,
+   "server_name": "2006Scape",
+   "votes": 1,
+   "category": "Pre-EoC",
+   "categories": "Pre-EoC",
+   "page_url": "https://runescapeprivateservers.com/server/2006scape/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 217,
+   "server_name": "LegacyScape",
+   "votes": 9,
+   "category": "OSRS",
+   "categories": "OSRS; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/legacyscape/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 218,
+   "server_name": "Eldritch 718",
+   "votes": 9,
+   "category": "718",
+   "categories": "718; Custom",
+   "page_url": "https://runescapeprivateservers.com/server/eldritch-718/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 219,
+   "server_name": "Ethereal",
+   "votes": 9,
+   "category": "General",
+   "categories": "General",
+   "page_url": "https://runescapeprivateservers.com/server/ethereal/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 220,
+   "server_name": "Zyrenith",
+   "votes": 9,
+   "category": "General",
+   "categories": "General",
+   "page_url": "https://runescapeprivateservers.com/server/zyrenith/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 221,
+   "server_name": "Avernic",
+   "votes": 8,
+   "category": "317",
+   "categories": "317; Custom; Eco; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/avernic/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 222,
+   "server_name": "RuneAd",
+   "votes": 8,
+   "category": "317",
+   "categories": "317; PvM; Mobile",
+   "page_url": "https://runescapeprivateservers.com/server/runead/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 223,
+   "server_name": "2006Plus",
+   "votes": 8,
+   "category": "Ironman",
+   "categories": "Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/2006plus/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 224,
+   "server_name": "ZerithRSPS",
+   "votes": 8,
+   "category": "PvP",
+   "categories": "PvP; PvM; Ironman; Mobile",
+   "page_url": "https://runescapeprivateservers.com/server/zerithrsps/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 225,
+   "server_name": "Eldritch",
+   "votes": 7,
+   "category": "718",
+   "categories": "718; Custom; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/eldritch/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 226,
+   "server_name": "Google SnowRSPS",
+   "votes": 7,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/google-snowrsps/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 227,
+   "server_name": "Buried614",
+   "votes": 6,
+   "category": "General",
+   "categories": "General",
+   "page_url": "https://runescapeprivateservers.com/server/buried614/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 228,
+   "server_name": "SnowRSPS",
+   "votes": 6,
+   "category": "317",
+   "categories": "317; Custom; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/snowrsps/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 229,
+   "server_name": "Clamperz",
+   "votes": 6,
+   "category": "General",
+   "categories": "General",
+   "page_url": "https://runescapeprivateservers.com/server/clamperz/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 230,
+   "server_name": "Ironman DMM",
+   "votes": 6,
+   "category": "PvP",
+   "categories": "PvP; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/ironman-dmm/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 231,
+   "server_name": "RSCFalador",
+   "votes": 6,
+   "category": "Custom",
+   "categories": "Custom; PvP; Mobile",
+   "page_url": "https://runescapeprivateservers.com/server/rscfalador/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 232,
+   "server_name": "Dreamgrove",
+   "votes": 5,
+   "category": "Custom",
+   "categories": "Custom; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/dreamgrove/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 233,
+   "server_name": "Wyldor",
+   "votes": 5,
+   "category": "PvP",
+   "categories": "PvP",
+   "page_url": "https://runescapeprivateservers.com/server/wyldor/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 234,
+   "server_name": "Zythera",
+   "votes": 5,
+   "category": "General",
+   "categories": "General",
+   "page_url": "https://runescapeprivateservers.com/server/zythera/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 235,
+   "server_name": "Age-Of-Embers",
+   "votes": 4,
+   "category": "317",
+   "categories": "317",
+   "page_url": "https://runescapeprivateservers.com/server/age-of-embers/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 236,
+   "server_name": "BattleScape",
+   "votes": 4,
+   "category": "OSRS",
+   "categories": "OSRS; 317; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/battlescape/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 237,
+   "server_name": "Drakoria",
+   "votes": 4,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/drakoria/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 238,
+   "server_name": "ElderRune",
+   "votes": 4,
+   "category": "317",
+   "categories": "317",
+   "page_url": "https://runescapeprivateservers.com/server/elderrune/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 239,
+   "server_name": "ForbiddenX",
+   "votes": 4,
+   "category": "718",
+   "categories": "718; Custom; PvP; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/forbiddenx/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 240,
+   "server_name": "Revix 718",
+   "votes": 4,
+   "category": "OSRS",
+   "categories": "OSRS; 718; Custom; PvP; Eco; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/revix-718/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 241,
+   "server_name": "velmora",
+   "votes": 4,
+   "category": "317",
+   "categories": "317",
+   "page_url": "https://runescapeprivateservers.com/server/velmora/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 242,
+   "server_name": "Aranea",
+   "votes": 4,
+   "category": "PvM",
+   "categories": "PvM",
+   "page_url": "https://runescapeprivateservers.com/server/aranea/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 243,
+   "server_name": "Revix",
+   "votes": 4,
+   "category": "718",
+   "categories": "718; Custom; Eco; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/revix/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 244,
+   "server_name": "Dawnx 667",
+   "votes": 3,
+   "category": "Pre-EoC",
+   "categories": "Pre-EoC; Custom; PvP; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/dawnx-667/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 245,
+   "server_name": "Niflheim",
+   "votes": 3,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; Mobile; F2P",
+   "page_url": "https://runescapeprivateservers.com/server/niflheim/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 246,
+   "server_name": "Runewend",
+   "votes": 3,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; Eco; PvM; Mobile; F2P",
+   "page_url": "https://runescapeprivateservers.com/server/runewend/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 247,
+   "server_name": "Valkryie",
+   "votes": 3,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; Eco; PvM; Ironman; Mobile",
+   "page_url": "https://runescapeprivateservers.com/server/valkryie/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 248,
+   "server_name": "Zelos",
+   "votes": 3,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; PvM; Ironman; Leagues",
+   "page_url": "https://runescapeprivateservers.com/server/zelos/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 249,
+   "server_name": "exodus",
+   "votes": 3,
+   "category": "718",
+   "categories": "718; Custom",
+   "page_url": "https://runescapeprivateservers.com/server/exodus/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 250,
+   "server_name": "Titan",
+   "votes": 3,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/titan/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 251,
+   "server_name": "Celestial",
+   "votes": 2,
+   "category": "Custom",
+   "categories": "Custom; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/celestial/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 252,
+   "server_name": "InfernalRS",
+   "votes": 2,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/infernalrs/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 253,
+   "server_name": "ONYX",
+   "votes": 2,
+   "category": "OSRS",
+   "categories": "OSRS; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/onyx/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 254,
+   "server_name": "Twisted Soulz",
+   "votes": 2,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; Eco; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/twisted-soulz/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 255,
+   "server_name": "Unique-Ps",
+   "votes": 2,
+   "category": "Custom",
+   "categories": "Custom; PvP; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/unique-ps/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 256,
+   "server_name": "WolfScape",
+   "votes": 2,
+   "category": "317",
+   "categories": "317",
+   "page_url": "https://runescapeprivateservers.com/server/wolfscape/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 257,
+   "server_name": "Zaryx PS",
+   "votes": 2,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/zaryx-ps/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 258,
+   "server_name": "Legacy RS",
+   "votes": 2,
+   "category": "317",
+   "categories": "317",
+   "page_url": "https://runescapeprivateservers.com/server/legacy-rs/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 259,
+   "server_name": "Pkwild",
+   "votes": 2,
+   "category": "OSRS",
+   "categories": "OSRS; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/pkwild/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 260,
+   "server_name": "RSPS plus",
+   "votes": 2,
+   "category": "OSRS",
+   "categories": "OSRS; PvP; PvM; Ironman; Mobile",
+   "page_url": "https://runescapeprivateservers.com/server/rsps-plus/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 261,
+   "server_name": "UniquePk",
+   "votes": 2,
+   "category": "PvP",
+   "categories": "PvP; Eco; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/uniquepk/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 262,
+   "server_name": "Anarchy",
+   "votes": 1,
+   "category": "Custom",
+   "categories": "Custom; PvP; Spawn; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/anarchy/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 263,
+   "server_name": "Emps-World",
+   "votes": 1,
+   "category": "OSRS",
+   "categories": "OSRS; Eco",
+   "page_url": "https://runescapeprivateservers.com/server/emps-world/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 264,
+   "server_name": "PKHaven",
+   "votes": 1,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/pkhaven/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 265,
+   "server_name": "Project-RebornRSPS",
+   "votes": 1,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; Eco",
+   "page_url": "https://runescapeprivateservers.com/server/project-rebornrsps/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 266,
+   "server_name": "World 18.org",
+   "votes": 1,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; Eco; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/world-18-org/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 267,
+   "server_name": "Allstarlegends Oldschool",
+   "votes": 1,
+   "category": "OSRS",
+   "categories": "OSRS; PvP; Eco",
+   "page_url": "https://runescapeprivateservers.com/server/allstarlegends-oldschool/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 268,
+   "server_name": "Crimson",
+   "votes": 1,
+   "category": "OSRS",
+   "categories": "OSRS; 718; Pre-EoC; Custom; PvM; Leagues",
+   "page_url": "https://runescapeprivateservers.com/server/crimson/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 269,
+   "server_name": "Elysian Chronicles",
+   "votes": 1,
+   "category": "Custom",
+   "categories": "Custom; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/elysian-chronicles/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 270,
+   "server_name": "Emberveil",
+   "votes": 1,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvP; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/emberveil/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 271,
+   "server_name": "Exile",
+   "votes": 1,
+   "category": "Custom",
+   "categories": "Custom",
+   "page_url": "https://runescapeprivateservers.com/server/exile/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 272,
+   "server_name": "OS-Adventure",
+   "votes": 1,
+   "category": "OSRS",
+   "categories": "OSRS",
+   "page_url": "https://runescapeprivateservers.com/server/os-adventure/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 273,
+   "server_name": "Ressurge",
+   "votes": 1,
+   "category": "OSRS",
+   "categories": "OSRS; PvP; Eco; PvM; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/ressurge/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 274,
+   "server_name": "ShadowVale",
+   "votes": 1,
+   "category": "OSRS",
+   "categories": "OSRS; Custom; PvM",
+   "page_url": "https://runescapeprivateservers.com/server/shadowvale/"
+  },
+  {
+   "date": "2026-11-18",
+   "rank": 275,
+   "server_name": "TRIBULATIONPK",
+   "votes": 1,
+   "category": "OSRS",
+   "categories": "OSRS; Pre-EoC; PvP; Ironman",
+   "page_url": "https://runescapeprivateservers.com/server/tribulationpk/"
+  }
+ ]
+}

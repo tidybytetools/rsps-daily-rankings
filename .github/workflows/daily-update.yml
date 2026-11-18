@@ -1,0 +1,85 @@
+name: Daily RSPS rankings update
+
+# The site rebuilds its rankings once a day at about 10:15 UTC (done by ~10:25 UTC).
+# This runs about 1.5 hours later. GitHub cron is always UTC.
+on:
+  schedule:
+    - cron: "45 11 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-update
+  cancel-in-progress: false
+
+env:
+  BASE_URL: https://runescapeprivateservers.com/data
+  HF_REPO: runescapeprivateservers/rsps-daily-rankings
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      HF_TOKEN: ${{ secrets.HF_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download today's snapshot
+        run: |
+          set -euo pipefail
+          curl -fsSL --retry 4 --retry-delay 30 --max-time 60 -A "rsps-daily-rankings-dataset (+https://github.com/${GITHUB_REPOSITORY})" \
+            -o /tmp/rsps-rankings.csv "$BASE_URL/rsps-rankings.csv"
+          curl -fsSL --retry 4 --retry-delay 30 --max-time 60 -A "rsps-daily-rankings-dataset (+https://github.com/${GITHUB_REPOSITORY})" \
+            -o /tmp/rsps-rankings.json "$BASE_URL/rsps-rankings.json"
+          # Refuse anything that is not the real file (error page, empty body, broken JSON).
+          head -1 /tmp/rsps-rankings.csv | grep -q '^date,rank,server_name,votes,category,categories,page_url'
+          test "$(wc -l < /tmp/rsps-rankings.csv)" -gt 10
+          python3 -c "import json; d=json.load(open('/tmp/rsps-rankings.json')); assert d['count'] == len(d['rows']) > 0"
+          cp /tmp/rsps-rankings.csv /tmp/rsps-rankings.json .
+          day="$(python3 -c "import json; print(json.load(open('rsps-rankings.json'))['date'])")"
+          mkdir -p history
+          cp rsps-rankings.csv "history/rsps-rankings-${day}.csv"
+          echo "DAY=${day}" >> "$GITHUB_ENV"
+
+      - name: Commit if changed
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add rsps-rankings.csv rsps-rankings.json history/
+          if git diff --cached --quiet; then
+            echo "No change since the last snapshot."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "Rankings snapshot ${DAY}"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Push to Hugging Face (only if HF_TOKEN is set)
+        if: env.HF_TOKEN != '' && (steps.commit.outputs.changed == 'true' || github.event_name == 'workflow_dispatch')
+        run: |
+          pip install --quiet "huggingface_hub>=0.23"
+          python3 - <<'PY'
+          import os
+          from huggingface_hub import HfApi
+          api = HfApi(token=os.environ["HF_TOKEN"])
+          repo = os.environ["HF_REPO"]
+          api.create_repo(repo, repo_type="dataset", exist_ok=True)
+          day = os.environ.get("DAY", "")
+          for local, remote in (("rsps-rankings.csv", "rsps-rankings.csv"),
+                                ("rsps-rankings.json", "rsps-rankings.json"),
+                                ("README_HF.md", "README.md"),
+                                ("history/rsps-rankings-%s.csv" % day, "history/rsps-rankings-%s.csv" % day)):
+              if os.path.exists(local):
+                  api.upload_file(path_or_fileobj=local, path_in_repo=remote, repo_id=repo,
+                                  repo_type="dataset", commit_message="Rankings snapshot " + day)
+          print("Uploaded to https://huggingface.co/datasets/" + repo)
+          PY
+
+      - name: Note when Hugging Face is skipped
+        if: env.HF_TOKEN == ''
+        run: echo "HF_TOKEN secret not set; skipped the Hugging Face upload (GitHub copy updated as usual)."
