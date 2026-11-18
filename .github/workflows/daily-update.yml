@@ -29,15 +29,21 @@ jobs:
 
       - name: Download today's snapshot
         run: |
-          set -euo pipefail
-          curl -fsSL --retry 6 --retry-all-errors --retry-delay 20 --max-time 60 -A "rsps-daily-rankings-dataset (+https://github.com/${GITHUB_REPOSITORY})" \
-            -o /tmp/rsps-rankings.csv "$BASE_URL/rsps-rankings.csv"
-          curl -fsSL --retry 6 --retry-all-errors --retry-delay 20 --max-time 60 -A "rsps-daily-rankings-dataset (+https://github.com/${GITHUB_REPOSITORY})" \
-            -o /tmp/rsps-rankings.json "$BASE_URL/rsps-rankings.json"
-          # Refuse anything that is not the real file (error page, empty body, broken JSON).
-          head -1 /tmp/rsps-rankings.csv | grep -q '^date,rank,server_name,votes,category,categories,page_url'
-          test "$(wc -l < /tmp/rsps-rankings.csv)" -gt 10
-          python3 -c "import json; d=json.load(open('/tmp/rsps-rankings.json')); assert d['count'] == len(d['rows']) > 0"
+          set -uo pipefail
+          UA="rsps-daily-rankings-dataset (+https://github.com/${GITHUB_REPOSITORY})"
+          ok=0
+          for i in 1 2 3 4 5 6; do
+            curl -sSL --retry 3 --retry-all-errors --retry-delay 10 --max-time 60 -A "$UA" -o /tmp/rsps-rankings.csv "$BASE_URL/rsps-rankings.csv?t=$(date +%s)"
+            curl -sSL --retry 3 --retry-all-errors --retry-delay 10 --max-time 60 -A "$UA" -o /tmp/rsps-rankings.json "$BASE_URL/rsps-rankings.json?t=$(date +%s)"
+            # Refuse anything that is not the real file (error page, empty body, broken JSON).
+            if [ "$(head -c 56 /tmp/rsps-rankings.csv)" = "date,rank,server_name,votes,category,categories,page_url" ] \
+               && [ "$(wc -l < /tmp/rsps-rankings.csv)" -gt 10 ] \
+               && python3 -c "import json; d=json.load(open('/tmp/rsps-rankings.json')); assert d['count'] == len(d['rows']) > 0"; then
+              ok=1; break
+            fi
+            echo "Attempt $i got an unexpected response; first bytes:"; head -c 300 /tmp/rsps-rankings.csv; echo; sleep 30
+          done
+          [ "$ok" = 1 ] || { echo "Could not fetch a valid snapshot"; exit 1; }
           cp /tmp/rsps-rankings.csv /tmp/rsps-rankings.json .
           day="$(python3 -c "import json; print(json.load(open('rsps-rankings.json'))['date'])")"
           mkdir -p history
