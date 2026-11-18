@@ -30,9 +30,9 @@ jobs:
       - name: Download today's snapshot
         run: |
           set -euo pipefail
-          curl -fsSL --retry 4 --retry-delay 30 --max-time 60 -A "rsps-daily-rankings-dataset (+https://github.com/${GITHUB_REPOSITORY})" \
+          curl -fsSL --retry 6 --retry-all-errors --retry-delay 20 --max-time 60 -A "rsps-daily-rankings-dataset (+https://github.com/${GITHUB_REPOSITORY})" \
             -o /tmp/rsps-rankings.csv "$BASE_URL/rsps-rankings.csv"
-          curl -fsSL --retry 4 --retry-delay 30 --max-time 60 -A "rsps-daily-rankings-dataset (+https://github.com/${GITHUB_REPOSITORY})" \
+          curl -fsSL --retry 6 --retry-all-errors --retry-delay 20 --max-time 60 -A "rsps-daily-rankings-dataset (+https://github.com/${GITHUB_REPOSITORY})" \
             -o /tmp/rsps-rankings.json "$BASE_URL/rsps-rankings.json"
           # Refuse anything that is not the real file (error page, empty body, broken JSON).
           head -1 /tmp/rsps-rankings.csv | grep -q '^date,rank,server_name,votes,category,categories,page_url'
